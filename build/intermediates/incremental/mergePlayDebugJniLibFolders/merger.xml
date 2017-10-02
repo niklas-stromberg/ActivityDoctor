@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="X:\!Min_App\Activity-Doctor\src\main\jniLibs"/></dataSet><dataSet config="play"><source path="X:\!Min_App\Activity-Doctor\src\play\jniLibs"/></dataSet><dataSet config="debug"><source path="X:\!Min_App\Activity-Doctor\src\debug\jniLibs"/></dataSet><dataSet config="playDebug"><source path="X:\!Min_App\Activity-Doctor\src\playDebug\jniLibs"/></dataSet></merger>

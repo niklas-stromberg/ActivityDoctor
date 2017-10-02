@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">782999464617</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.niklas.activitydoctor</string>
+    <!-- achievement Healthy! -->
+    <string name="achievement_healthy" translatable="false">CgkIqdWe8-QWEAIQAw</string>
+    <!-- achievement It's a sprint, not a marathon! -->
+    <string name="achievement_its_a_sprint_not_a_marathon" translatable="false">CgkIqdWe8-QWEAIQBA</string>
+    <!-- achievement Maniac! -->
+    <string name="achievement_maniac" translatable="false">CgkIqdWe8-QWEAIQBQ</string>
+    <!-- achievement The flame is still burning -->
+    <string name="achievement_the_flame_is_still_burning" translatable="false">CgkIqdWe8-QWEAIQBg</string>
+    <!-- achievement Good stamina -->
+    <string name="achievement_good_stamina" translatable="false">CgkIqdWe8-QWEAIQCA</string>
+    <!-- leaderboard Total activity -->
+    <string name="leaderboard_total_activity" translatable="false">CgkIqdWe8-QWEAIQAQ</string>
+    <!-- leaderboard One day activity -->
+    <string name="leaderboard_one_day_activity" translatable="false">CgkIqdWe8-QWEAIQAg</string>
+    <!-- leaderboard Average activity -->
+    <string name="leaderboard_average_activity" translatable="false">CgkIqdWe8-QWEAIQBw</string>
+</resources>

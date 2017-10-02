@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\drawable-xxxhdpi\\ic_launcher.png",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\drawable-xxxhdpi\\ic_notification.png",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\drawable-xxxhdpi\\ic_notification.png"
+    }
+]

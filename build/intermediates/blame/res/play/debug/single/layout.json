@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout\\widgetconfig.xml",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\layout\\widgetconfig.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout\\dialog_color_picker.xml",
+        "source": "C:\\Users\\Niklas\\.android\\build-cache\\d4decd5946853508e8f6a000bc6248fd747fed9b\\output\\res\\layout\\dialog_color_picker.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout\\extract.xml",
+        "source": "C:\\Users\\Niklas\\.android\\build-cache\\d4decd5946853508e8f6a000bc6248fd747fed9b\\output\\res\\layout\\extract.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout\\stepsize.xml",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\layout\\stepsize.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout\\statistics.xml",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\layout\\statistics.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout\\fragment_overview.xml",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\layout\\fragment_overview.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout\\signin.xml",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout\\widget.xml",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\layout\\widget.xml"
+    }
+]

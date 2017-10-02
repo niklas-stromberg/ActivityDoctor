@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout-land\\dialog_color_picker.xml",
+        "source": "C:\\Users\\Niklas\\.android\\build-cache\\d4decd5946853508e8f6a000bc6248fd747fed9b\\output\\res\\layout-land\\dialog_color_picker.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout-land\\fragment_overview.xml",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\layout-land\\fragment_overview.xml"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\layout-land\\statistics.xml",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\layout-land\\statistics.xml"
+    }
+]

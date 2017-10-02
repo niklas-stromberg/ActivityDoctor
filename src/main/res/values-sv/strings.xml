@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+
+    <string name="app_name">RörelseDoktorn</string>
+    <string name="goal">Mål</string>
+    <string name="about">Om</string>
+    <string name="doctors_recommendation">Läkares rekommendation</string>
+    <string name="account">Konto</string>
+    <string name="goal_summary">Nuvarande mål: %,d minuter</string>
+    <string name="sign_in">Logga in med ditt Googlekonto för att använda prestationer och topplistor</string>
+    <string name="signed_in">Inloggad som %s</string>
+    <string name="set_goal">Ange mål</string>
+    <string name="sign_out">Logga ut</string>
+    <string name="sign_in_necessary">Inloggning nödvändig</string>
+    <string name="please_sign_in_with_your_google_account">Logga in med ditt konto på Google+ för att använda den här funktionen. \"Google Play Spel\" behövs också.</string>
+    <string name="minutes">minuter</string>
+    <string name="text_color">Textfärg:</string>
+    <string name="background_color">Bakgrundsfärg:</string>
+    <string name="settings">Inställningar</string>
+    <string name="achievements">Prestationer</string>
+    <string name="leaderboard">Topplistor</string>
+    <string name="faq">FAQ</string>
+    <string name="goal_reached_notification">Mål nått! %s minuter hittills</string>
+    <string name="notification_text">%s minuter kvar</string>
+    <string name="total">Totalt</string>
+    <string name="notification_title">Doktorn räknar nu åt dig :)</string>
+    <string name="your_progress_will_be_shown_here_soon">Dina framsteg kommer att visas här snart</string>
+    <string name="average">Genomsnitt</string>
+    <string name="record">Rekord</string>
+    <string name="total_last_7_days">Totalt senaste 7 dagarna</string>
+    <string name="average_last_7_days">Genomsnitt senaste 7 dagarna</string>
+    <string name="total_this_month">Totalt den här månaden</string>
+    <string name="average_this_month">Genomsnitt den här månaden</string>
+    <string name="about_text_links">Den här appen skapades av Niklas Strömberg (<a href="https://linkedin.com/in/niklas-strömberg-3861a614a">LinkedIn</a>). \n\nDenna app har försökt replikera <a href="https://www.ncbi.nlm.nih.gov/pubmed/21616714">denna</a> studie för att få fram någorlunda giltiga aktivitetsminuter värden.\n\n</string>
+    <string name="about_app_version">Appens version: %s</string>
+    <string name="since">Sedan %s</string>
+    <string name="start">Start</string>
+    <string name="stop">Stopp</string>
+    <string name="close">stäng</string>
+    <string name="pause">Pausa</string>
+    <string name="resume">Återuppta</string>
+    <string name="ispaused">Doktorn tar en rast x)</string>
+    <string name="pause_on_power_title">Pausa under laddning</string>
+    <string name="pause_on_power_summary">Doktorn bör vila när enheten laddas</string>
+    <string name="no_sensor">Sensor hittades inte</string>
+    <string name="no_sensor_explain">Denna app kräver en dedikerad stegräknare i hårdvara, som din enhet saknar. Den här appen kan inte köra på din enhet.</string>
+
+
+    <string name="doctors_recommendation_text">Alla vuxna från 18 år och uppåt, rekommenderas att vara fysiskt aktiva i sammanlagt minst 150 minuter i veckan. Intensiteten bör vara minst måttlig. Vid hög intensitet rekommenderas minst 75 minuter per vecka. Aktivitet av måttlig och hög intensitet kan även kombineras. Aktiviteten bör spridas ut över flera av veckans dagar och utföras i pass om minst 10 minuter. \n\nExempel på fysisk aktivitet som uppfyller denna rekommendation är 30 minuters rask promenad 5 dagar per vecka, 20 – 30 minuters löpning 3 dagar per vecka eller en kombination av dessa.\n\n(<a href="http://www.yfa.se/rekommendationer-for-fysisk-aktivitet/">Källa: Svenska Läkaresällskapet 2011</a>)\n\n</string>
+
+    <string name="vigorousIntensity_summary">Mät endast aktivitet med hög intensitet</string>
+    <string name="vigorousIntensity_title">Hög intensitet</string>
+    <string name="moderateIntensity_summary">Mät endast aktivitet med måttlig intensitet</string>
+    <string name="moderateIntensity_title">Måttlig intensitet</string>
+
+    <string name="optional">Valfri</string>
+    <string name="recommended_activity_today">Rekommenderad tid \nkvar idag</string>
+    <string name="vigorous_intensity">Hög intensitet</string>
+
+    <string name="explanations">Förklaringar</string>
+    <string name="explanations_text">Enkelt förklarat så rekommenderar Svenska Läkaresällskapet att du ska röra på dig med måttlig intensitet minst 150 minuter i veckan. Denna app räknar automatiskt om varje minut av aktivitet med hög intensitet till två minuter av måttlig intensitet. \n\n\"Rekommenderad tid kvar idag\" anger hur många minuters aktivitet som behövs för att du ska klara Svenska Läkaresällskapets rekommendationer för aktivitet, dom senaste 7 dagarna.\n\nDen blågröna biten på cirkeldiagrammet representerar din aktivitet på \"hög intensitet\". Medans den gröna biten visar aktivitet på \"måttlig intensitet\".\n\n</string>
+
+</resources>

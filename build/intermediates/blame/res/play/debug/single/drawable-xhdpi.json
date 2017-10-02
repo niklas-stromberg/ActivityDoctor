@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\drawable-xhdpi\\ic_dashclock.png",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\drawable-xhdpi\\ic_dashclock.png"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\drawable-xhdpi\\ic_notification.png",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\drawable-xhdpi\\ic_resume.png",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\drawable-xhdpi\\ic_resume.png"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\drawable-xhdpi\\ic_pause.png",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\drawable-xhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "X:\\!Min_App\\Activity-Doctor\\build\\intermediates\\res\\merged\\play\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "X:\\!Min_App\\Activity-Doctor\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
