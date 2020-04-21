@@ -4,10 +4,6 @@ ActivityDoctor
   <img alt="Get it on Google Play"
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
 </a><br/>
-<b>Are you worried you don't activate yourself enough? Let the Activity-Doctor help you!</b><br/><br/>
-The Activity-Doctor will help you achieve the Swedish Medical Society's recommendation for physical activity by measuring your daily activity. It measures activity of both moderate and high physical intensity in accordance with the Swedish Medical Society's recommendation and checks to see if you meet the requirements.
-<br/><br/>
-It also tells you every day how many minutes of physical activity you need to fulfill the recommendations for the current week.
 
 <br/><br/>
 <table style="border: 0px;">
