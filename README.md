@@ -19,7 +19,7 @@ ActivityDoctor
 
 
 <br/><br/>
--Uses the accelerometer.<br /> 
+<br /> 
 -This android application is meant to help the user fulfill the [Swedish medical society's recommendation](http://www.yfa.se/rekommendationer-for-fysisk-aktivitet/ "Swedish medical society's recommendation") for physical activity. 
 <br /> -This application has tried to replicate [this](https://www.ncbi.nlm.nih.gov/pubmed/21616714 "this") study to get fairly correct activity minutes values for different physical intensities.
-<br /> -This application will not ask for any user permissions.
+<br /> 
